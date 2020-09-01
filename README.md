@@ -13,6 +13,6 @@ Abstract—Short-term precise prediction of network traffic can effectively help
 
 Update models for traffic prediction 
 
-now model.py contains MLP, LSTM, BiLSTM, conv_BiLSTM, LSTM_with_attention, Conv_LSTM_with_attention. 
+Now model.py contains MLP, LSTM, BiLSTM, conv_BiLSTM, LSTM_with_attention, Conv_LSTM_with_attention. 
 
 ALL codes are coded by Python 3.6 and Pytorch 1.3  
